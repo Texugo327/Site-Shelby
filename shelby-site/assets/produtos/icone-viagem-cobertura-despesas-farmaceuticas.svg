@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 19px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #130044;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="M337.15,9c11.1,0,20.14,9.03,20.14,20.13v247.12c0,11.1-9.03,20.13-20.14,20.13H29.13c-11.1,0-20.14-9.03-20.14-20.13V29.13c0-11.1,9.03-20.13,20.14-20.13h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12C0,292.27,13.11,305.38,29.13,305.38h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13C366.28,13.11,353.18,0,337.15,0h0Z"/>
+  <text class="cls-3" transform="translate(27.59 274.43)"><tspan class="cls-9" x="0" y="0">D</tspan><tspan class="cls-5" x="12.47" y="0">e</tspan><tspan x="22.96" y="0">s</tspan><tspan class="cls-2" x="31.22" y="0">p</tspan><tspan class="cls-7" x="42.79" y="0">es</tspan><tspan x="61.39" y="0">as </tspan><tspan class="cls-8" x="85.59" y="0">f</tspan><tspan x="92.24" y="0">a</tspan><tspan class="cls-10" x="103.63" y="0">r</tspan><tspan class="cls-2" x="110.72" y="0">ma</tspan><tspan class="cls-1" x="138.6" y="0">c</tspan><tspan class="cls-6" x="148" y="0">ê</tspan><tspan x="158.19" y="0">u</tspan><tspan class="cls-7" x="168.42" y="0">t</tspan><tspan class="cls-10" x="175.07" y="0">i</tspan><tspan class="cls-1" x="179.45" y="0">c</tspan><tspan x="188.85" y="0">as</tspan></text>
+  <polygon class="cls-4" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <g id="_13" data-name="13">
+    <g>
+      <path class="cls-4" d="M73.45,60.86c-1.77-1.91-4.18-3.07-6.77-3.27h-.07s-29.26-.03-29.26-.03c-5.7,0-10.34,4.64-10.34,10.34s4.64,10.34,10.34,10.34h0l29.19-.03h.13c2.59-.21,4.99-1.37,6.77-3.27,1.78-1.92,2.77-4.42,2.77-7.04,0-2.62-.98-5.12-2.77-7.04ZM51.92,74.71h-14.56c-3.77.01-6.83-3.05-6.83-6.82s3.06-6.83,6.83-6.83h14.56v13.65h0Z"/>
+      <path class="cls-4" d="M31.6,54.25c1.76,1.29,3.93,1.99,6.1,1.99h0c.74,0,1.49-.08,2.22-.24h.07s28-8.47,28-8.47c5.46-1.65,8.55-7.44,6.89-12.89-.66-2.17-1.97-4.01-3.79-5.35-1.76-1.29-3.93-2-6.1-2-1.01,0-2.02.15-3,.45l-27.92,8.5-.13.04c-2.42.94-4.38,2.75-5.53,5.09-1.15,2.35-1.37,5.03-.61,7.54.66,2.17,1.97,4.01,3.79,5.34ZM63.01,31.1c.65-.2,1.32-.3,1.98-.3,2.98,0,5.67,1.99,6.53,4.85,1.09,3.6-.95,7.43-4.55,8.52l-13.94,4.21-3.95-13.04,13.93-4.24Z"/>
+    </g>
+  </g>
+</svg>

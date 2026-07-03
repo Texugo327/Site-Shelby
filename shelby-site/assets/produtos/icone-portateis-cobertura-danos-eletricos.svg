@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #130044;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 23.99px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M337.15,8.99c11.1,0,20.14,9.03,20.14,20.14v247.12c0,11.1-9.03,20.14-20.14,20.14H29.13c-11.1,0-20.14-9.03-20.14-20.14V29.13c0-11.1,9.03-20.14,20.14-20.14h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12c0,16.02,13.11,29.13,29.13,29.13h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13C366.28,13.11,353.18,0,337.15,0h0Z"/>
+  <text class="cls-2" transform="translate(27.6 272.1)"><tspan class="cls-8" x="0" y="0">D</tspan><tspan x="15.75" y="0">a</tspan><tspan class="cls-7" x="30.12" y="0">n</tspan><tspan class="cls-4" x="43.26" y="0">o</tspan><tspan x="56.51" y="0">s </tspan><tspan class="cls-9" x="72.69" y="0">e</tspan><tspan class="cls-4" x="85.66" y="0">l</tspan><tspan class="cls-6" x="91.28" y="0">é</tspan><tspan x="104.44" y="0">t</tspan><tspan class="cls-10" x="113.03" y="0">r</tspan><tspan class="cls-5" x="121.89" y="0">i</tspan><tspan class="cls-8" x="127.42" y="0">c</tspan><tspan class="cls-4" x="139.28" y="0">o</tspan><tspan x="152.53" y="0">s</tspan></text>
+  <polygon class="cls-3" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <path class="cls-1" d="M44.94,32.11c.92.25,1.55,1.08,1.55,2.03v14.7h12.6c.75,0,1.45.4,1.82,1.05.37.65.37,1.45,0,2.1l-14.7,25.2c-.48.82-1.45,1.22-2.36.97-.92-.25-1.55-1.08-1.55-2.03v-14.7h-12.6c-.75,0-1.45-.4-1.82-1.05-.37-.65-.37-1.45,0-2.1l14.7-25.2c.48-.82,1.45-1.22,2.36-.97ZM33.35,57.23h11.04c1.16,0,2.1.94,2.1,2.1v9.03l8.94-15.33h-11.04c-1.16,0-2.1-.94-2.1-2.1v-9.03l-8.94,15.33Z"/>
+</svg>

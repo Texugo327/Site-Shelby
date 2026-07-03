@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Página de produto da Shelby Seguros com coberturas, assistências e cotação personalizada.">
+  <title>Seguro | Shelby Seguros</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo logo-image-link" href="index.html" aria-label="Shelby Seguros">
+        <img 
+          class="site-logo-img" 
+          src="./assets/icons/logo-shelby-branca.png" 
+          alt="Shelby Seguros"
+        >
+      </a>
+      <nav class="nav" aria-label="Menu principal"><a href="index.html#produtos">Produtos</a><a href="index.html#contato">Contato</a><a href="quem-somos.html">A Shelby</a></nav>
+      <div class="header-actions"><a 
+          class="icon-whatsapp" 
+          data-config-link="whatsappUrl" 
+          target="_blank" 
+          rel="noopener" 
+          aria-label="Fale com a Shelby pelo WhatsApp"
+        >
+          <img 
+            class="whatsapp-img whatsapp-img-header" 
+            src="./assets/icons/whatsapp.png" 
+            alt="WhatsApp"
+          >
+        </a><button class="menu-toggle" aria-label="Abrir menu"><span></span><span></span><span></span></button></div>
+    </div>
+  </header>
+
+  <main id="product-page">
+    <section class="product-hero">
+      <div class="product-hero-grid">
+        <div class="product-hero-copy">
+          <p class="eyebrow">Produto Shelby</p>
+          <h1 id="product-title">Seguro</h1>
+          <p id="product-description"></p>
+          <button class="btn btn-white" data-product-quote>Cotar agora</button>
+        </div>
+        <div class="product-hero-image"><img id="product-hero-image" src="" alt=""></div>
+      </div>
+    </section>
+
+    <section class="section coverage-section">
+      <div class="container">
+        <div class="coverage-head">
+          <div><p class="eyebrow">Coberturas</p><h2>Confira as principais coberturas.</h2><p>Os ícones mudam ao passar o mouse para exibir detalhes, mantendo o comportamento previsto no wireflow.</p></div>
+          <div class="coverage-actions"><button id="coverage-prev" class="round-btn" aria-label="Coberturas anteriores">‹</button><button id="coverage-next" class="round-btn" aria-label="Mais coberturas">›</button></div>
+        </div>
+        <div id="coverage-track" class="coverage-track"></div>
+        <button class="btn btn-primary" data-product-quote>Cotar agora</button>
+      </div>
+    </section>
+
+    <section class="section assistance">
+      <div class="container">
+        <div class="section-head"><div><p class="eyebrow" style="color:#150044">Assistências</p><h2>Suporte para cada etapa.</h2></div><button class="btn btn-white" data-product-quote>Cotar agora</button></div>
+        <div id="assist-grid" class="assist-grid"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container why-grid">
+        <div><p class="eyebrow">Por que escolher a Shelby?</p><h2>A gente simplifica a proteção ideal para você.</h2><p>Combinamos tecnologia de cotação, atendimento humano e parceria com grandes seguradoras para facilitar uma decisão mais segura.</p><button class="btn btn-primary" data-product-quote>Cotar agora</button></div>
+        <div class="why-items"><article class="why-item"><div class="why-icon">▦</div><h3>MultiCálculo</h3><p>Mais opções analisadas em menos tempo.</p></article><article class="why-item"><div class="why-icon">◎</div><h3>Atendimento consultivo</h3><p>Indicação adequada ao seu perfil.</p></article><article class="why-item"><div class="why-icon">✦</div><h3>Parceiros do mercado</h3><p>Rede de seguradoras para diferentes necessidades.</p></article><article class="why-item"><div class="why-icon">↻</div><h3>Renovação organizada</h3><p>Acompanhamento para evitar atrasos e falhas.</p></article></div>
+      </div>
+    </section>
+
+    <section class="section related-section">
+      <div class="container">
+        <div class="section-head"><div><p class="eyebrow">Veja também</p><h2>Outros seguros relacionados.</h2></div><a class="btn btn-white" href="index.html#produtos">Ver todos</a></div>
+        <div id="related-grid" class="related-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer"><div class="container footer-row"><div><p>© Copyright 2026 Shelby Seg Corretora de Seguros Ltda – CNPJ n.º 55.201.314/0001-44. Registro SUSEP n.º 242157950. Todos os direitos reservados. Termos: <a data-config-link="termsUrl" target="_blank" rel="noopener">termo e condições de uso</a>. Privacidade: <a data-config-link="privacyUrl" target="_blank" rel="noopener">política de privacidade</a>. Consulte a <a data-config-link="susepUrl" target="_blank" rel="noopener">SUSEP</a>.</p></div><a class="footer-logo" href="index.html">shelby<span class="logo-dot">.</span></a></div></footer>
+  <a 
+    class="floating-whatsapp" 
+    data-config-link="whatsappUrl" 
+    target="_blank" 
+    rel="noopener" 
+    aria-label="WhatsApp Shelby"
+  >
+    <img 
+      class="whatsapp-img whatsapp-img-floating" 
+      src="./assets/icons/whatsapp.png" 
+      alt="WhatsApp"
+    >
+  </a>
+
+  <div id="quote-modal" class="modal" aria-hidden="true"><div class="modal-backdrop"></div><div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="quote-title"><button class="modal-close" data-close-modal aria-label="Fechar">×</button><h2 id="quote-title">Solicite sua cotação personalizada</h2><p>Preencha os dados e retornaremos com as melhores opções para o seu perfil.</p><form id="quote-form"><div class="form-grid"><div class="full"><label for="quote-name">Nome completo*</label><input id="quote-name" required autocomplete="name"></div><div><label for="quote-phone">Telefone*</label><input id="quote-phone" required autocomplete="tel"></div><div><label for="quote-email">E-mail*</label><input id="quote-email" type="email" required autocomplete="email"></div><div class="full"><label for="quote-product">Produto</label><input id="quote-product" readonly></div><div class="full"><label for="quote-message">Comentário/observação</label><textarea id="quote-message"></textarea></div></div><div class="form-foot"><p class="form-note">Campos com * são obrigatórios.</p><button type="submit" class="btn btn-primary">Enviar</button></div></form></div></div>
+
+  <script src="js/config.js"></script><script src="js/data.js"></script><script src="js/main.js"></script>
+</body>
+</html>

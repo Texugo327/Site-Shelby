@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 20px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #130044;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <path class="cls-9" d="M337.15,8.99c11.1,0,20.14,9.03,20.14,20.14v247.12c0,11.1-9.03,20.14-20.14,20.14H29.13c-11.1,0-20.13-9.03-20.13-20.14V29.13c0-11.1,9.03-20.14,20.13-20.14h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12c0,16.02,13.11,29.13,29.13,29.13h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13c0-16.02-13.11-29.13-29.13-29.13h0Z"/>
+  <text class="cls-8" transform="translate(27.59 249.88)"><tspan x="0" y="0">I</tspan><tspan class="cls-6" x="5.44" y="0">n</tspan><tspan class="cls-16" x="16.14" y="0">v</tspan><tspan class="cls-4" x="27.06" y="0">a</tspan><tspan x="39.09" y="0">l</tspan><tspan class="cls-3" x="43.93" y="0">i</tspan><tspan class="cls-13" x="48.54" y="0">d</tspan><tspan class="cls-5" x="60.79" y="0">e</tspan><tspan x="71.66" y="0">z </tspan><tspan class="cls-7" x="86.6" y="0">f</tspan><tspan x="93.98" y="0">u</tspan><tspan class="cls-11" x="104.74" y="0">n</tspan><tspan class="cls-1" x="115.7" y="0">c</tspan><tspan class="cls-10" x="125.52" y="0">io</tspan><tspan class="cls-15" x="141.1" y="0">n</tspan><tspan class="cls-4" x="152.06" y="0">a</tspan><tspan x="164.09" y="0">l e </tspan><tspan class="cls-11" x="0" y="24">p</tspan><tspan class="cls-10" x="12.18" y="24">er</tspan><tspan class="cls-11" x="30.61" y="24">m</tspan><tspan x="48.18" y="24">a</tspan><tspan class="cls-11" x="60.16" y="24">n</tspan><tspan class="cls-10" x="71.12" y="24">e</tspan><tspan x="82.08" y="24">n</tspan><tspan class="cls-12" x="93.24" y="24">t</tspan><tspan x="100.18" y="24">e </tspan><tspan class="cls-12" x="116.17" y="24">tot</tspan><tspan class="cls-4" x="141.03" y="24">a</tspan><tspan x="153.06" y="24">l </tspan><tspan class="cls-15" x="162.7" y="24">p</tspan><tspan class="cls-3" x="174.88" y="24">o</tspan><tspan x="185.85" y="24">r </tspan><tspan class="cls-13" x="198.35" y="24">d</tspan><tspan class="cls-11" x="210.6" y="24">o</tspan><tspan class="cls-10" x="221.6" y="24">e</tspan><tspan class="cls-11" x="232.56" y="24">n</tspan><tspan class="cls-2" x="243.52" y="24">ç</tspan><tspan class="cls-14" x="253.41" y="24">a</tspan></text>
+  <polygon class="cls-9" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <path class="cls-9" d="M69.52,65.95c-1.27,0-2.45.39-3.43,1.05v-9.89c0-2.72-2.21-4.93-4.93-4.93h-19.49l-1.99-6.5h12.61c1.63,0,2.96,1.33,2.96,2.96,0,.74.6,1.34,1.34,1.34s1.34-.6,1.34-1.34c0-3.11-2.53-5.63-5.63-5.63h-13.43l-2.37-7.76c-.59-1.93-2.34-3.22-4.35-3.22-1.45,0-2.78.67-3.65,1.83-.87,1.16-1.13,2.62-.72,4.01l5.46,18.4c.21.71.95,1.11,1.66.9.71-.21,1.11-.95.9-1.66l-5.46-18.4c-.17-.57-.06-1.18.3-1.65.36-.48.9-.75,1.5-.75.83,0,1.55.53,1.79,1.33l5.46,17.88c.17.56.69.95,1.28.95h20.48c1.24,0,2.26,1.01,2.26,2.26v5.47h-10.12c-1.76-3.73-5.55-6.33-9.94-6.33-6.06,0-10.99,4.93-10.99,10.99s4.93,10.99,10.99,10.99,10.99-4.93,10.99-10.99c0-.68-.07-1.34-.19-1.98h9.26v6.2c-.02.21-.03.42-.03.63,0,3.38,2.75,6.14,6.14,6.14s6.14-2.75,6.14-6.14-2.75-6.14-6.14-6.14ZM43.35,75.56c-4.58,0-8.31-3.73-8.31-8.31s3.73-8.31,8.31-8.31,8.31,3.73,8.31,8.31-3.73,8.31-8.31,8.31ZM69.52,75.56c-1.91,0-3.46-1.55-3.46-3.46,0-.03,0-.07.01-.1,0-.04.02-.07.02-.11v-.11c.17-1.76,1.63-3.14,3.43-3.14,1.91,0,3.46,1.55,3.46,3.46s-1.55,3.46-3.46,3.46Z"/>
+</svg>

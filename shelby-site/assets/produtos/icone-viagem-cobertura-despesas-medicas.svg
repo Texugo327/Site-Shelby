@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 19px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #130044;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M337.15,9c11.1,0,20.14,9.03,20.14,20.13v247.12c0,11.1-9.03,20.13-20.14,20.13H29.13c-11.1,0-20.13-9.03-20.13-20.13V29.13c0-11.1,9.03-20.13,20.13-20.13h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12C0,292.27,13.11,305.38,29.13,305.38h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13C366.28,13.11,353.18,0,337.15,0h0Z"/>
+  <text class="cls-2" transform="translate(27.59 251.28)"><tspan class="cls-13" x="0" y="0">D</tspan><tspan class="cls-5" x="12.47" y="0">e</tspan><tspan x="22.96" y="0">s</tspan><tspan class="cls-1" x="31.22" y="0">p</tspan><tspan class="cls-8" x="42.79" y="0">es</tspan><tspan x="61.39" y="0">as </tspan><tspan class="cls-1" x="85.59" y="0">mé</tspan><tspan x="112.72" y="0">d</tspan><tspan class="cls-15" x="124.5" y="0">i</tspan><tspan class="cls-13" x="128.88" y="0">c</tspan><tspan x="138.27" y="0">a</tspan><tspan class="cls-12" x="149.65" y="0">s</tspan><tspan x="157.83" y="0">, </tspan><tspan class="cls-1" x="0" y="22.8">o</tspan><tspan class="cls-5" x="10.45" y="22.8">d</tspan><tspan class="cls-4" x="22.09" y="22.8">o</tspan><tspan x="32.51" y="22.8">n</tspan><tspan class="cls-10" x="43.11" y="22.8">t</tspan><tspan class="cls-6" x="49.7" y="22.8">o</tspan><tspan class="cls-8" x="59.98" y="22.8">l</tspan><tspan class="cls-1" x="64.44" y="22.8">ó</tspan><tspan class="cls-15" x="74.89" y="22.8">gi</tspan><tspan class="cls-13" x="90.7" y="22.8">c</tspan><tspan x="100.09" y="22.8">as e </tspan><tspan class="cls-14" x="139.48" y="22.8">h</tspan><tspan class="cls-8" x="149.89" y="22.8">o</tspan><tspan x="160.39" y="22.8">s</tspan><tspan class="cls-7" x="168.64" y="22.8">p</tspan><tspan x="179.97" y="22.8">i</tspan><tspan class="cls-10" x="184.57" y="22.8">t</tspan><tspan class="cls-9" x="191.16" y="22.8">a</tspan><tspan class="cls-8" x="202.59" y="22.8">l</tspan><tspan x="207.04" y="22.8">a</tspan><tspan class="cls-11" x="218.42" y="22.8">r</tspan><tspan class="cls-5" x="225.03" y="22.8">e</tspan><tspan x="235.51" y="22.8">s</tspan></text>
+  <polygon class="cls-3" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <path class="cls-3" d="M58.05,78.23h-11.72c-1.84,0-3.34-1.5-3.34-3.34v-12.06h-12.06c-1.84,0-3.34-1.5-3.34-3.34v-11.72c0-1.84,1.5-3.34,3.34-3.34h12.06v-12.06c0-1.84,1.5-3.34,3.34-3.34h11.72c1.84,0,3.34,1.5,3.34,3.34v12.06h12.06c1.84,0,3.34,1.5,3.34,3.34v11.72c0,1.84-1.5,3.34-3.34,3.34h-12.06v12.06c0,1.84-1.5,3.34-3.34,3.34ZM30.93,47.44c-.19,0-.34.15-.34.34v11.72c0,.19.15.34.34.34h13.56c.83,0,1.5.67,1.5,1.5v13.56c0,.19.15.34.34.34h11.72c.19,0,.34-.15.34-.34v-13.56c0-.83.67-1.5,1.5-1.5h13.56c.19,0,.34-.15.34-.34v-11.72c0-.19-.15-.34-.34-.34h-13.56c-.83,0-1.5-.67-1.5-1.5v-13.56c0-.19-.15-.34-.34-.34h-11.72c-.19,0-.34.15-.34.34v13.56c0,.83-.67,1.5-1.5,1.5h-13.56Z"/>
+</svg>

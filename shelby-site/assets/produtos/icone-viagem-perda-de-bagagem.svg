@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 19px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #130044;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M337.15,9c11.1,0,20.14,9.03,20.14,20.13v247.12c0,11.1-9.03,20.13-20.14,20.13H29.13c-11.1,0-20.14-9.03-20.14-20.13V29.13c0-11.1,9.03-20.13,20.14-20.13h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12c0,16.02,13.11,29.13,29.13,29.13h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13c0-16.02-13.11-29.13-29.13-29.13h0Z"/>
+  <text class="cls-4" transform="translate(27.59 270.45)"><tspan class="cls-9" x="0" y="0">P</tspan><tspan class="cls-10" x="9.68" y="0">e</tspan><tspan class="cls-3" x="20.09" y="0">r</tspan><tspan class="cls-11" x="26.7" y="0">d</tspan><tspan x="38.33" y="0">a </tspan><tspan class="cls-12" x="54.27" y="0">o</tspan><tspan x="64.48" y="0">u </tspan><tspan class="cls-2" x="79.26" y="0">e</tspan><tspan x="88.88" y="0">xt</tspan><tspan class="cls-8" x="107.02" y="0">r</tspan><tspan class="cls-7" x="113.62" y="0">a</tspan><tspan class="cls-1" x="124.56" y="0">v</tspan><tspan class="cls-6" x="135.32" y="0">i</tspan><tspan x="139.7" y="0">o </tspan><tspan class="cls-11" x="154.9" y="0">d</tspan><tspan x="166.53" y="0">e </tspan><tspan class="cls-13" x="181.72" y="0">ba</tspan><tspan class="cls-6" x="204.51" y="0">g</tspan><tspan class="cls-13" x="215.93" y="0">a</tspan><tspan class="cls-6" x="227.12" y="0">ge</tspan><tspan x="248.96" y="0">m</tspan></text>
+  <polygon class="cls-5" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <path class="cls-5" d="M49.5,45.77h-1.62c0-.49-.32-.81-.81-.81s-.81.32-.81.81h-1.62v-11.49c.96-.32,1.62-1.21,1.62-2.3,0-1.38-1.05-2.43-2.43-2.43h-8.12c-1.38,0-2.43,1.05-2.43,2.43,0,1.08.7,1.96,1.62,2.29v11.5h-1.62c0-.49-.32-.81-.81-.81s-.81.32-.81.81h-1.62c-1.38,0-2.43,1.05-2.43,2.43v25.97c0,1.38,1.05,2.43,2.43,2.43h2.43v.81c0,.49.32.81.81.81s.81-.32.81-.81v-.81h11.36v.81c0,.49.32.81.81.81s.81-.32.81-.81v-.81h2.43c1.38,0,2.43-1.05,2.43-2.43v-25.97c0-1.38-1.05-2.43-2.43-2.43ZM35.71,31.16h8.12c.49,0,.81.32.81.81s-.32.81-.81.81h-8.12c-.49,0-.81-.32-.81-.81s.41-.81.81-.81ZM36.52,34.41h6.49v11.36h-6.49v-11.36ZM30.03,47.39h19.48c.49,0,.81.32.81.81v2.43h-21.1v-2.43c0-.49.32-.81.81-.81ZM36.6,52.26h6.49v.73c0,.49-.41.89-.89.89h-4.71c-.49,0-.89-.41-.89-.89v-.73h0ZM49.5,74.98h-19.48c-.49,0-.81-.32-.81-.81v-.81h2.43c.49,0,.81-.32.81-.81s-.32-.81-.81-.81h-2.43v-1.62h2.43c.49,0,.81-.32.81-.81s-.32-.81-.81-.81h-2.43v-16.23h5.76v.73c0,1.38,1.14,2.52,2.52,2.52h4.71c1.3,0,2.43-1.14,2.43-2.52v-.73h5.68v21.91c0,.49-.32.81-.81.81Z"/>
+</svg>

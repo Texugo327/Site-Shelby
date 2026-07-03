@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.28 305.38">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: UrbanistRoman-Bold, Urbanist;
+        font-size: 16px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #130044;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <path class="cls-10" d="M337.15,9c11.1,0,20.14,9.03,20.14,20.13v247.12c0,11.1-9.03,20.14-20.14,20.14H29.13c-11.1,0-20.14-9.03-20.14-20.14V29.13c0-11.1,9.03-20.13,20.14-20.13h308.02M337.15,0H29.13C13.11,0,0,13.11,0,29.13v247.12C0,292.27,13.11,305.38,29.13,305.38h308.02c16.02,0,29.13-13.11,29.13-29.13V29.13c0-16.02-13.11-29.13-29.13-29.13h0Z"/>
+  <text class="cls-9" transform="translate(27.59 254.52)"><tspan class="cls-2" x="0" y="0">D</tspan><tspan class="cls-5" x="10.5" y="0">er</tspan><tspan class="cls-12" x="25.25" y="0">r</tspan><tspan x="30.81" y="0">a</tspan><tspan class="cls-1" x="40.39" y="0">m</tspan><tspan x="54.45" y="0">e e </tspan><tspan class="cls-15" x="80.03" y="0">v</tspan><tspan x="88.77" y="0">a</tspan><tspan class="cls-5" x="98.35" y="0">z</tspan><tspan x="106.28" y="0">a</tspan><tspan class="cls-16" x="115.87" y="0">m</tspan><tspan class="cls-5" x="129.92" y="0">e</tspan><tspan x="138.69" y="0">n</tspan><tspan class="cls-14" x="147.62" y="0">t</tspan><tspan x="153.17" y="0">o </tspan><tspan class="cls-8" x="165.97" y="0">d</tspan><tspan x="175.77" y="0">e </tspan><tspan class="cls-16" x="188.56" y="0">á</tspan><tspan class="cls-7" x="197.98" y="0">g</tspan><tspan class="cls-8" x="207.54" y="0">u</tspan><tspan x="216.03" y="0">a </tspan><tspan class="cls-8" x="229.46" y="0">d</tspan><tspan x="239.26" y="0">e </tspan><tspan class="cls-2" x="0" y="19.2">c</tspan><tspan x="7.91" y="19.2">hu</tspan><tspan class="cls-17" x="25.45" y="19.2">v</tspan><tspan class="cls-4" x="34.18" y="19.2">e</tspan><tspan class="cls-13" x="42.77" y="19.2">i</tspan><tspan class="cls-12" x="46.58" y="19.2">r</tspan><tspan class="cls-3" x="52.14" y="19.2">o</tspan><tspan class="cls-11" x="60.98" y="19.2">s au</tspan><tspan class="cls-6" x="89.96" y="19.2">t</tspan><tspan class="cls-5" x="95.51" y="19.2">o</tspan><tspan class="cls-16" x="104.29" y="19.2">m</tspan><tspan x="118.34" y="19.2">á</tspan><tspan class="cls-3" x="127.93" y="19.2">t</tspan><tspan class="cls-5" x="133.54" y="19.2">i</tspan><tspan class="cls-2" x="137.22" y="19.2">c</tspan><tspan class="cls-8" x="145.14" y="19.2">o</tspan><tspan x="153.98" y="19.2">s</tspan></text>
+  <polygon class="cls-10" points="338.69 262.6 330.04 262.6 330.04 253.95 324.38 253.95 324.38 262.6 315.73 262.6 315.73 268.27 324.38 268.27 324.38 276.92 330.04 276.92 330.04 268.27 338.69 268.27 338.69 262.6"/>
+  <path class="cls-10" d="M57,54.95c-.05-.17-.14-.32-.21-.39l-13.51-22.52-13.57,22.64c-.04.07-.07.13-.1.2-1.32,2.35-2.02,5-2.02,7.67,0,8.65,7.04,15.69,15.69,15.69s15.69-7.04,15.69-15.69c0-2.64-.68-5.26-1.97-7.59ZM31.98,55.87l11.3-18.84,11.25,18.75c.03.08.06.15.09.2,1.16,2,1.77,4.26,1.77,6.56,0,7.23-5.88,13.12-13.12,13.12-7.23,0-13.12-5.88-13.12-13.12,0-2.29.61-4.56,1.77-6.55.03-.06.06-.12.06-.12,0,0,0,0,0,0Z"/>
+</svg>
