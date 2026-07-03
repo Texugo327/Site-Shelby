@@ -634,19 +634,20 @@ p {
 }
 
 .why-icon {
-  width: 54px;
-  height: 54px;
-  border-radius: 16px;
+  width: 72px;
+  height: 72px;
+  border-radius: 18px;
   border: 2px solid var(--purple);
   display: grid;
   place-items: center;
   margin-bottom: 18px;
   overflow: hidden;
+  background: #fff;
 }
 
 .why-icon img {
-  width: 34px;
-  height: 34px;
+  width: 60px;
+  height: 60px;
   object-fit: contain;
   display: block;
 }
@@ -1837,5 +1838,94 @@ textarea:focus {
   .hero-product-copy p {
     font-size: .98rem;
     max-width: 330px;
+  }
+}
+
+/* =========================================================
+   Ajuste final dos ícones da seção "Por que escolher"
+   ========================================================= */
+.why-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 18px;
+  border: 2px solid var(--purple);
+  display: grid;
+  place-items: center;
+  margin-bottom: 18px;
+  overflow: hidden;
+  background: #fff;
+  font-size: 0;
+  line-height: 0;
+}
+
+.why-icon img {
+  display: block;
+  width: 72px;
+  height: 72px;
+  max-width: none;
+  max-height: none;
+  object-fit: contain;
+}
+.footer-logo-image-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 118px;
+  min-width: 118px;
+  line-height: 0;
+  text-decoration: none !important;
+  font-size: 0;
+  letter-spacing: 0;
+}
+
+.footer-logo-img {
+  display: block;
+  width: 118px;
+  max-width: 118px;
+  height: auto;
+  object-fit: contain;
+}
+
+.footer-logo-image-link:hover {
+  opacity: .9;
+}
+
+@media (max-width: 760px) {
+  .footer-logo-image-link {
+    width: 104px;
+    min-width: 104px;
+  }
+
+  .footer-logo-img {
+    width: 104px;
+    max-width: 104px;
+  }
+}
+/* Mapa ocupando a largura inteira no final da seção de contato */
+.contact-layout .map-card {
+  grid-column: 1 / -1;
+  width: 100%;
+  min-height: 460px;
+}
+
+.contact-layout .google-map {
+  width: 100%;
+  min-height: 460px;
+}
+
+.contact-layout .map-info-card {
+  max-width: 520px;
+  right: auto;
+}
+
+@media (max-width: 760px) {
+  .contact-layout .map-card,
+  .contact-layout .google-map {
+    min-height: 430px;
+  }
+
+  .contact-layout .map-info-card {
+    max-width: none;
+    right: 16px;
   }
 }
