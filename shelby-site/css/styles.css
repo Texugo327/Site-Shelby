@@ -1929,3 +1929,36 @@ textarea:focus {
     right: 16px;
   }
 }
+.card-focus-label,
+.product-card:hover .card-focus-label {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  transform: none !important;
+}
+.card-info-zone {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 83%;
+  z-index: 2;
+}
+
+.card-quote-zone {
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  bottom: 4%;
+  height: 13%;
+  z-index: 3;
+  border-radius: 999px;
+}
+
+.card-focus-label,
+.product-card:hover .card-focus-label {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  transform: none !important;
+}
