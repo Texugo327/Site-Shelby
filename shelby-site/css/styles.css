@@ -1962,3 +1962,72 @@ textarea:focus {
   visibility: hidden !important;
   transform: none !important;
 }
+
+/* Barra superior maior, textos maiores e WhatsApp maior */
+.header-inner {
+  height: 96px;
+}
+
+.site-logo-img {
+  width: 146px;
+  max-width: 146px;
+}
+
+.nav {
+  gap: 36px;
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+.nav a {
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+.header-actions {
+  gap: 18px;
+}
+
+.icon-whatsapp {
+  width: 46px;
+  height: 46px;
+}
+
+.whatsapp-img-header {
+  width: 38px;
+  height: 38px;
+}
+
+@media (max-width: 760px) {
+  .header-inner {
+    height: 96px;
+  }
+
+  .site-logo-img {
+    width: 146px;
+    max-width: 146px;
+  }
+
+  .nav {
+    inset: 96px 0 auto 0;
+    font-size: 1rem;
+  }
+
+  .nav a {
+    font-size: 1rem;
+  }
+
+  .icon-whatsapp {
+    width: 40px;
+    height: 40px;
+  }
+
+  .whatsapp-img-header {
+    width: 38px;
+    height: 38px;
+  }
+}
+.nav a {
+  font-size: 1.28rem;
+  font-weight: 800;
+}
