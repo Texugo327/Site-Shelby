@@ -2031,3 +2031,31 @@ textarea:focus {
   font-size: 1.28rem;
   font-weight: 800;
 }
+/* Topo normal: some ao rolar a página */
+.site-header {
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  right: auto !important;
+  width: 100%;
+  z-index: 50;
+}
+
+/* Remove compensação caso tenha sido adicionada antes */
+body {
+  padding-top: 0 !important;
+}
+
+html {
+  scroll-padding-top: 0 !important;
+}
+
+@media (max-width: 760px) {
+  body {
+    padding-top: 0 !important;
+  }
+
+  html {
+    scroll-padding-top: 0 !important;
+  }
+}
