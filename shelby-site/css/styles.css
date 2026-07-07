@@ -2063,3 +2063,468 @@ html {
 .coverage-title-fallback {
   display: none !important;
 }
+
+
+/* =========================================================
+   Ajustes responsivos finais - desktop, tablet e smartphone
+   ========================================================= */
+
+/* Evita qualquer estouro lateral no mobile */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  padding-top: 0 !important;
+}
+
+/* O topo continua normal: aparece no início e some ao rolar */
+.site-header {
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  right: auto !important;
+  width: 100%;
+  z-index: 50;
+}
+
+/* Cards de produtos: área clicável do Saiba Mais e Cotar Agora */
+.card-info-zone {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 83%;
+  z-index: 2;
+}
+
+.card-quote-zone {
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  bottom: 4%;
+  height: 13%;
+  z-index: 3;
+  border-radius: 999px;
+}
+
+.card-focus-label,
+.product-card:hover .card-focus-label,
+.coverage-title-fallback {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  transform: none !important;
+}
+
+/* Tablet */
+@media (max-width: 1000px) {
+  .container {
+    width: min(100% - 32px, var(--max));
+  }
+
+  .header-inner {
+    height: 86px;
+  }
+
+  .site-logo-img {
+    width: 132px;
+    max-width: 132px;
+  }
+
+  .nav {
+    gap: 24px;
+  }
+
+  .nav a {
+    font-size: 1rem;
+  }
+
+  .hero-viewport {
+    min-height: 610px;
+  }
+
+  .hero-main-copy {
+    top: 44px;
+    left: 84px;
+    max-width: calc(100% - 168px);
+  }
+
+  .hero-main-copy h1 {
+    font-size: clamp(2.2rem, 6vw, 3.6rem);
+    line-height: 1.03;
+  }
+
+  .hero-product-copy {
+    left: 84px;
+    bottom: 145px;
+    width: min(460px, calc(100% - 168px));
+  }
+
+  .hero-product-copy h2 {
+    font-size: clamp(2.4rem, 7vw, 3.6rem);
+  }
+
+  .why-grid,
+  .contact-layout,
+  .about-logo-cloud,
+  .tech-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .why-grid {
+    gap: 42px;
+  }
+
+  .contact-layout .map-card {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Smartphone */
+@media (max-width: 760px) {
+  .container {
+    width: min(100% - 28px, var(--max));
+  }
+
+  .section {
+    padding: 54px 0;
+  }
+
+  .section.compact {
+    padding: 44px 0;
+  }
+
+  h1 {
+    font-size: clamp(2.4rem, 13vw, 4.4rem);
+    line-height: .94;
+  }
+
+  h2 {
+    font-size: clamp(2.05rem, 11vw, 3.3rem);
+    line-height: .96;
+  }
+
+  h3 {
+    font-size: clamp(1.2rem, 6vw, 1.7rem);
+  }
+
+  p {
+    font-size: .98rem;
+    line-height: 1.45;
+  }
+
+  .header-inner {
+    height: 78px;
+    gap: 14px;
+  }
+
+  .logo-image-link {
+    width: 118px;
+    min-width: 118px;
+    height: 42px;
+  }
+
+  .site-logo-img {
+    width: 118px;
+    max-width: 118px;
+  }
+
+  .header-actions {
+    gap: 10px;
+  }
+
+  .icon-whatsapp {
+    width: 40px;
+    height: 40px;
+  }
+
+  .whatsapp-img-header {
+    width: 32px;
+    height: 32px;
+  }
+
+  .menu-toggle {
+    display: flex;
+    width: 40px;
+    height: 40px;
+  }
+
+  .nav {
+    position: fixed;
+    inset: 78px 0 auto 0;
+    z-index: 80;
+    background: #050505;
+    border-top: 1px solid rgba(255, 255, 255, .08);
+    padding: 24px;
+    display: grid;
+    gap: 18px;
+    transform: translateY(-120%);
+    opacity: 0;
+    pointer-events: none;
+    transition: .25s ease;
+  }
+
+  .nav a {
+    font-size: 1.12rem;
+    font-weight: 800;
+  }
+
+  .menu-open .nav {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .hero-viewport {
+    min-height: 620px;
+  }
+
+  .hero-slide img {
+    height: 100%;
+    object-position: center;
+  }
+
+  .hero-main-copy {
+    top: 34px;
+    left: 24px;
+    max-width: calc(100% - 48px);
+  }
+
+  .hero-main-copy h1 {
+    font-size: clamp(2.05rem, 10vw, 3.05rem);
+    line-height: 1.05;
+  }
+
+  .hero-product-copy {
+    left: 24px;
+    bottom: 120px;
+    width: calc(100% - 48px);
+  }
+
+  .hero-product-copy h2 {
+    font-size: clamp(2.25rem, 12vw, 3.4rem);
+  }
+
+  .hero-product-copy p {
+    font-size: 1rem;
+    max-width: 320px;
+  }
+
+  .hero-quote-button {
+    bottom: 34px;
+    min-width: calc(100% - 72px);
+  }
+
+  .slider-arrow {
+    width: 42px;
+    height: 42px;
+    top: 55%;
+  }
+
+  .slider-arrow.prev {
+    left: 12px;
+  }
+
+  .slider-arrow.next {
+    right: 12px;
+  }
+
+  .hero-dots {
+    bottom: 12px;
+  }
+
+  .section-head {
+    display: block;
+  }
+
+  .section-head p {
+    max-width: none;
+  }
+
+  .category-tabs {
+    margin-inline: -14px;
+    padding-inline: 14px;
+  }
+
+  .tab {
+    padding: 9px 14px;
+    font-size: .78rem;
+  }
+
+  .cards-track {
+    grid-auto-columns: 86%;
+    gap: 18px;
+    padding-bottom: 18px;
+  }
+
+  .product-card {
+    min-height: auto;
+  }
+
+  .carousel-arrow {
+    width: 42px;
+    height: 42px;
+  }
+
+  .carousel-arrow.left {
+    left: 4px;
+  }
+
+  .carousel-arrow.right {
+    right: 4px;
+  }
+
+  .why-grid {
+    gap: 34px;
+  }
+
+  .why-items {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .why-item {
+    padding: 22px;
+  }
+
+  .why-icon {
+    width: 66px;
+    height: 66px;
+  }
+
+  .why-icon img {
+    width: 66px;
+    height: 66px;
+  }
+
+  .testimonial-grid,
+  .mission-grid,
+  .assist-grid,
+  .related-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .logo-pill {
+    width: 154px;
+    height: 76px;
+  }
+
+  .logo-img {
+    max-width: 128px;
+    max-height: 50px;
+  }
+
+  .contact-card {
+    padding: 22px;
+    border-radius: 24px;
+  }
+
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .form-foot {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .btn {
+    width: 100%;
+    padding-inline: 18px;
+  }
+
+  .contact-layout .map-card,
+  .contact-layout .google-map {
+    min-height: 430px;
+  }
+
+  .contact-layout .map-info-card {
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    max-width: none;
+    padding: 18px;
+  }
+
+  .product-hero-grid {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+
+  .product-hero-copy {
+    padding: 56px 24px;
+  }
+
+  .product-hero-image {
+    max-height: 420px;
+    overflow: hidden;
+  }
+
+  .coverage-head {
+    display: block;
+  }
+
+  .coverage-actions {
+    margin-top: 14px;
+  }
+
+  .coverage-track {
+    grid-auto-columns: 84%;
+    gap: 18px;
+  }
+
+  .coverage-card {
+    min-height: 220px;
+  }
+
+  .footer-row {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .footer-logo-image-link {
+    width: 112px;
+    min-width: 112px;
+  }
+
+  .footer-logo-img {
+    width: 112px;
+    max-width: 112px;
+  }
+
+  .floating-whatsapp,
+  .whatsapp-img-floating {
+    width: 54px;
+    height: 54px;
+  }
+}
+
+/* Celulares bem estreitos */
+@media (max-width: 420px) {
+  .hero-viewport {
+    min-height: 590px;
+  }
+
+  .hero-main-copy h1 {
+    font-size: clamp(1.9rem, 11vw, 2.55rem);
+  }
+
+  .hero-product-copy {
+    bottom: 112px;
+  }
+
+  .cards-track {
+    grid-auto-columns: 90%;
+  }
+
+  .coverage-track {
+    grid-auto-columns: 88%;
+  }
+
+  .map-info-card h3 {
+    font-size: 1.45rem;
+  }
+}
