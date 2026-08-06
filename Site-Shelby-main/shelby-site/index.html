@@ -172,7 +172,12 @@
         </div>
 
         <div class="contact-card">
-          <form id="contact-form">
+          <form id="contact-form" action="https://formsubmit.co/ajax/joao.pedro@proseg.com.br" method="POST">
+            <input type="hidden" name="_subject" value="Novo contato pelo site Shelby">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" value="confirmacao.html">
+
             <div class="form-grid">
               <div>
                 <label for="contact-name">Nome</label>
@@ -299,31 +304,36 @@
       <h2 id="quote-title">Solicite sua cotação personalizada</h2>
       <p>Preencha os dados e retornaremos com as melhores opções para o seu perfil.</p>
 
-      <form id="quote-form">
+      <form id="quote-form" action="https://formsubmit.co/ajax/joao.pedro@proseg.com.br" method="POST">
+        <input type="hidden" name="_subject" value="Nova cotação pelo site Shelby">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_next" value="confirmacao.html">
+
         <div class="form-grid">
           <div class="full">
             <label for="quote-name">Nome completo*</label>
-            <input id="quote-name" required autocomplete="name">
+            <input id="quote-name" name="nome" required autocomplete="name">
           </div>
 
           <div>
             <label for="quote-phone">Telefone*</label>
-            <input id="quote-phone" required autocomplete="tel">
+            <input id="quote-phone" name="telefone" required autocomplete="tel">
           </div>
 
           <div>
             <label for="quote-email">E-mail*</label>
-            <input id="quote-email" type="email" required autocomplete="email">
+            <input id="quote-email" name="email" type="email" required autocomplete="email">
           </div>
 
           <div class="full">
             <label for="quote-product">Produto</label>
-            <input id="quote-product" readonly>
+            <input id="quote-product" name="produto" readonly>
           </div>
 
           <div class="full">
             <label for="quote-message">Comentário/observação</label>
-            <textarea id="quote-message"></textarea>
+            <textarea id="quote-message" name="mensagem"></textarea>
           </div>
         </div>
 

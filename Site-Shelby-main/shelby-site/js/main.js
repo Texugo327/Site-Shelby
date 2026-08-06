@@ -71,9 +71,37 @@
 
     const form = $('#quote-form');
 
-    form?.addEventListener('submit', e => {
+    form?.addEventListener('submit', async e => {
       e.preventDefault();
-      window.location.href = CONFIG.confirmationQuoteUrl;
+
+      const submitButton = form.querySelector('button[type="submit"]');
+      const originalText = submitButton ? submitButton.textContent : '';
+
+      if(submitButton){
+        submitButton.disabled = true;
+        submitButton.textContent = 'Enviando...';
+      }
+
+      try {
+        const response = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        });
+
+        if(!response.ok){
+          throw new Error('Erro ao enviar formulário.');
+        }
+
+        window.location.href = CONFIG.confirmationQuoteUrl || 'confirmacao.html?tipo=renovacao';
+      } catch (error) {
+        alert('Não foi possível enviar a cotação agora. Tente novamente em alguns instantes ou fale conosco pelo WhatsApp.');
+      } finally {
+        if(submitButton){
+          submitButton.disabled = false;
+          submitButton.textContent = originalText;
+        }
+      }
     });
   }
 
@@ -336,9 +364,37 @@
       });
     }
 
-    form.addEventListener('submit', e => {
+    form.addEventListener('submit', async e => {
       e.preventDefault();
-      window.location.href = CONFIG.confirmationContactUrl;
+
+      const submitButton = form.querySelector('button[type="submit"]');
+      const originalText = submitButton ? submitButton.textContent : '';
+
+      if(submitButton){
+        submitButton.disabled = true;
+        submitButton.textContent = 'Enviando...';
+      }
+
+      try {
+        const response = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        });
+
+        if(!response.ok){
+          throw new Error('Erro ao enviar formulário.');
+        }
+
+        window.location.href = CONFIG.confirmationContactUrl || 'confirmacao.html';
+      } catch (error) {
+        alert('Não foi possível enviar o formulário agora. Tente novamente em alguns instantes ou fale conosco pelo WhatsApp.');
+      } finally {
+        if(submitButton){
+          submitButton.disabled = false;
+          submitButton.textContent = originalText;
+        }
+      }
     });
   }
 
