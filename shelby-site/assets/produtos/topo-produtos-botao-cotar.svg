@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 398.51 106.95">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .07em;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #b3b3b3;
+        stroke-miterlimit: 10;
+        stroke-width: 1.49px;
+      }
+
+      .cls-5 {
+        letter-spacing: .06em;
+      }
+
+      .cls-6 {
+        font-family: UrbanistRoman-Black, Urbanist;
+        font-size: 30.47px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-7 {
+        letter-spacing: .08em;
+      }
+
+      .cls-8 {
+        letter-spacing: .09em;
+      }
+
+      .cls-9 {
+        letter-spacing: .04em;
+      }
+
+      .cls-10 {
+        letter-spacing: .08em;
+      }
+
+      .cls-11 {
+        letter-spacing: .1em;
+      }
+
+      .cls-12 {
+        letter-spacing: .09em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="0" y="0" width="398.51" height="106.95" rx="53.48" ry="53.48"/>
+  <text class="cls-6" transform="translate(75.54 63.36)"><tspan class="cls-10" x="0" y="0">C</tspan><tspan class="cls-5" x="23.89" y="0">O</tspan><tspan class="cls-3" x="49.18" y="0">T</tspan><tspan class="cls-7" x="68.38" y="0">A</tspan><tspan class="cls-2" x="93.89" y="0">R </tspan><tspan class="cls-9" x="126.59" y="0">A</tspan><tspan class="cls-8" x="150.87" y="0">G</tspan><tspan class="cls-12" x="177.03" y="0">O</tspan><tspan class="cls-1" x="203.09" y="0">R</tspan><tspan class="cls-11" x="224.36" y="0">A</tspan></text>
+</svg>
